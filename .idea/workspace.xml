@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d61f57e0-633d-449f-9750-11b9a92dd3f1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/backup/hw1/task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/backup/hw1/task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup/task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/backup/task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/word_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/backup/word_count.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,10 +16,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="task1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="task1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backup/hw1/task1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
+            <state relative-caret-position="1213">
               <caret line="72" column="32" lean-forward="true" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -47,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="word_count.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="word_count.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backup/word_count.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -71,10 +69,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/backup/word_count.py" />
         <option value="$PROJECT_DIR$/word_count.py" />
         <option value="$PROJECT_DIR$/backup/task1.py" />
         <option value="$PROJECT_DIR$/backup/hw1/task1.py" />
+        <option value="$PROJECT_DIR$/backup/word_count.py" />
       </list>
     </option>
   </component>
@@ -88,10 +86,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="282" />
     <option name="y" value="25" />
-    <option name="width" value="1398" />
-    <option name="height" value="797" />
+    <option name="width" value="1680" />
+    <option name="height" value="1025" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -190,18 +187,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="282" y="25" width="1398" height="797" extended-state="0" />
+    <frame x="0" y="25" width="1680" height="1025" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32132566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24186552" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" weight="0.25948718" />
       <window_info anchor="right" id="Remote Host" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30235988" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25030527" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -227,13 +224,6 @@
     <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/backup/word_count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spark-env.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -252,11 +242,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backup/hw1/task1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
+        <state relative-caret-position="1213">
           <caret line="72" column="32" lean-forward="true" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup/word_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
